@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Stone VPN</string>
+
+    <string name="vpn_process_name" translatable="false">:my.custom.vpn.process.name</string>
+    <string name="vpn_provider_authorities" translatable="false">com.anchorfree.hydrasdk.app.demo</string>
+
+    <string name="log_in">LOGIN</string>
+    <string name="log_out">LOGOUT</string>
+    <string name="connect">CONNECT</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="optimal_server">OPTIMAL SERVER</string>
+    <string name="unknown">UNKNOWN</string>
+
+    <string name="devices_exceed">Available device count is exceed. Please consider upgrading your subscription.</string>
+    <string name="sessions_exceed">Available active session count is exceed. Please consider upgrading your subscription.</string>
+
+    <string name="version">Version</string>
+    <string name="app_error">Application error</string>
+    <string name="no_data">No data</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="account_type">Account Type</string>
+    <string name="activated_devices">Activated Devices</string>
+    <string name="account">Account</string>
+    <string name="signin_error">Unable to sign in</string>
+    <string name="no_network">Unable to connect to server. Check your Internet connection.</string>
+    <string name="online_devices">Online Devices</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="vpn_server_location">VPN Server Location</string>
+    <string name="vpn_node">VPN Node</string>
+    <string name="legal_information">Legal Information</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+
+    <string name="logged_in">Logged in</string>
+    <string name="logged_out">Logged out</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+
+    <string name="host_url_title">Host Url: </string>
+    <string name="carrier_id_title">Carrier ID: </string>
+    <string name="confirm">CONFIRM</string>
+
+    <string name="traffic_stats">UL: %1$s, DL: %2$s </string>
+    <string name="traffic_limit">%1$s of %2$s available</string>
+    <string name="traffic_unlimited">UNLIMITED</string>
+
+    <string name="current_server">CURRENT_SERVER</string>
+    <string name="connecting">Connecting</string>
+    <string name="paused">Paused</string>
+
+    <!--user's personalization-->
+    <bool name="admob_flag">true</bool>
+
+    <!--google admob keys-->
+    <string name="admob_app_id">ca-app-pub-5873775351454956~6912692511</string>
+    <string name="admob_native_advance">ca-app-pub-5873775351454956/4158536668</string>
+    <string name="admob_interstitial">ca-app-pub-5873775351454956/6741302126</string>
+    <!--google admob keys-->
+
+    <!--Change Privacy Policy URL-->
+    <string name="privacy_policy_link">https://cutvideoedit.blogspot.com/p/privacy-policy-for-stone-vpn.html</string>
+    <!--END Change Privacy Policy URL-->
+
+    <!--Change Contact E-mail Address-->
+    <string name="help_to_improve_us">cutvideoedit@gmail.com</string>
+    <!--END Change Contact E-mail Address-->
+
+    <!--FAQ QUESTION DETAILS -->
+
+    <!--QUESTIONS-->
+    <string name="question1">1. How to use Stone VPN?</string>
+    <string name="question2">2. How to switch server location?</string>
+    <string name="question3">3. Why "can't" I use internet after connection established?</string>
+    <string name="question4">4. How to disable battery optimization for Stone VPN?</string>
+    <string name="question5">5. What is Smart Proxy?</string>
+    <string name="question6">6. When I try to connect, Android system request a permission, but I can not accept it, why?</string>
+
+    <!--ANSWERS-->
+    <string name="question1_answer">Click symbol button on the middle place of the screen to use Stone VPN. If your Android system ask for permission, click OK or Accept to continue.</string>
+    <string name="question2_answer">Choose the any location you interest in the server list, then VPN will connect to the location that you click</string>
+    <string name="question3_answer">Fist of all, check your network connection. Then make sure "you've" disabled battery optimization for Stone VPN in "device's" battery setting (which means enable background activity for Stone VPN). If you enable Smart Proxy, you also need to make sure all the apps you need to proxy is checked in Smart Proxy setting.</string>
+    <string name="question4_answer" />
+    <string name="question5_answer">On Devices 5.0.0 or above, you can just enable a portion of the applications to utilize Stone VPN to intermediary traffic, and the various applications utilize neighborhood arrange. For instance, if Facebook and YouTube are blocked in your country, make them checked in Smart Proxy. After the VPN association is built up, just Facebook and YouTube traffic experience VPN, and all your different applications will proceed tantamount to regular.</string>
+    <string name="question6_answer">You might be running some application which changes the screen shading or opens a drifting window. "Android's" security framework forestall VPN to be running under these cases. You need close this sort of application temporarily to proceed.</string>
+    <!--END FAQ QUESTION DETAILS-->
+
+    <!--    About us text details-->
+    <string name="Aboutus_page_Text">Stone VPN and Security unblock Proxy is world best super vpn application its Super Secure VPN Unlimited Proxy Server for lifetime free access. Open any sites spare your device Secure VPN is the most confided in security, security and access stage with top execution on speed, solidness and security to unblock destinations, unblock any applications or sites, get to informal communities, watch video, song and films, ensure Wi-Fi hotspot security and secure protection</string>
+
+    <!--subscription dialog text-->
+    <string name="main_title">Select Subscription</string>
+    <string name="first_option">Remove ads (2.99$/Month)</string>
+    <string name="second_option">Remove ads (5.99$/3 Months)</string>
+    <string name="third_option">Remove ads (6.99$/6 Months)</string>
+    <string name="forth_option">Remove ads (7.99$/Yearly)</string>
+    <string name="select_country">Select Country</string>
+    <!--subscription dialog text-->
+
+</resources>
